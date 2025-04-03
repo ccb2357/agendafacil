@@ -17,6 +17,3 @@ Agenda Fácil é um sistema leve e eficiente para agendar compromissos.
 ## 📩 Contato
 📧 E-mail: [ccb2357@gmail.cm](mailto:ccb2357@gmail.cm)  
 🐙 GitHub: [ccb2357](https://github.com/ccb2357)    
-
----
-💙 Feito com dedicação por [Christopher] 🚀
