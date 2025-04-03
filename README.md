@@ -2,7 +2,7 @@
 
 ![Badge](https://img.shields.io/badge/PHP-8.2-blue?style=for-the-badge&logo=php) ![Badge](https://img.shields.io/badge/jQuery-3.7-blue?style=for-the-badge&logo=jquery)
 
-Agenda Fácil é um sistema leve e eficiente para gerenciar compromissos, clientes e notificações de forma intuitiva. Ele foi desenvolvido em **PHP** e **jQuery**.
+Agenda Fácil é um sistema leve e eficiente para agendar compromissos.
 
 ## ✨ Recursos
 ✔️ Agendamento de compromissos 📅  
