@@ -1,0 +1,31 @@
+.navbar{
+    background-color: #f6f3ee;
+}
+.navbar img {
+    width: 150px;
+}
+.navbar .nav-link {
+    color: #07334a;
+    font-weight: 600;
+}
+@media(min-width: 992px) {
+    .navbar .nav-link {
+        margin-left: 30px;
+    }
+}
+.navbar-toggler {
+    background-color: #07334a;
+    border: none;
+}
+.card-title {
+    color: #07334a;
+}
+.card-title span {
+    display: block;
+    margin-bottom: 15px;
+    text-align: center;
+    font-size: 35px;
+}
+footer {
+    background-color: #07334a;
+}

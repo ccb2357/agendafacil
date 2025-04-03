@@ -1,0 +1,22 @@
+{	
+	"name": "agendafacil/agendafacil",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christopher Bicudo",
+            "email": "ccb2357@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.2",
+        "phpmailer/phpmailer": "6.9.1"
+    },
+    "autoload": {
+        "classmap": [
+        	"vendor/"
+        ]
+    },
+    "config": {
+    	"optimize-autoloader": true
+	}
+}
