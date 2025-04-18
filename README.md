@@ -1,6 +1,8 @@
 # 📅 Agenda Fácil
 
-![Badge](https://img.shields.io/badge/PHP-8.2-blue?style=for-the-badge&logo=php) ![Badge](https://img.shields.io/badge/jQuery-3.7-blue?style=for-the-badge&logo=jquery)
+![Badge](https://img.shields.io/badge/PHP-8.2-blue?style=for-the-badge&logo=php) 
+![Badge](https://img.shields.io/badge/jQuery-3.7-blue?style=for-the-badge&logo=jquery) 
+![Badge](https://img.shields.io/badge/Bootstrap-5-blue?style=for-the-badge&logo=bootstrap)
 
 Agenda Fácil é um sistema leve e eficiente para agendar compromissos.
 
@@ -16,4 +18,4 @@ Agenda Fácil é um sistema leve e eficiente para agendar compromissos.
 
 ## 📩 Contato
 📧 E-mail: [ccb2357@gmail.cm](mailto:ccb2357@gmail.cm)  
-🐙 GitHub: [ccb2357](https://github.com/ccb2357)    
+🐙 GitHub: [ccb2357](https://github.com/ccb2357)
