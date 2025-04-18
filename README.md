@@ -13,7 +13,7 @@ Agenda Fácil é um sistema leve e eficiente para agendar compromissos.
 
 ## 🚀 Tecnologias Utilizadas
 - **Backend:** PHP 8.2
-- **Frontend:** jQuery
+- **Frontend:** Bootstrap 5, jQuery
 - **Notificações:** PHPMailer
 
 ## 📩 Contato
